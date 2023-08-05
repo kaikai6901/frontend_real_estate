@@ -23,5 +23,3 @@ jobs:
           SCRIPT_AFTER: |
             cd /home/ubuntu/frontend/frontend_real_estate
             npm install
-
-            
