@@ -22,6 +22,6 @@ jobs:
           TARGET: ${{ secrets.TARGET_DIR }}
           SCRIPT_AFTER: |
             export NVM_DIR=~/.nvm
-            source ~/.nvm/nvm.shsss
+            source ~/.nvm/nvm.sh
             cd /home/ubuntu/frontend/frontend_real_estate
             npm install
